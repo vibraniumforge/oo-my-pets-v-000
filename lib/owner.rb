@@ -12,9 +12,6 @@ class Owner
     # binding.pry
   end
 
-  def owner_count
-  end
-
   def say_species
      "I am a #{species}."
   end
